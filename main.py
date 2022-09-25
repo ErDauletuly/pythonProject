@@ -37,8 +37,15 @@ import math
 
 
 # 6)
-a_var = int(input("Enter the number of rows: "))
-for i in range(0,a_var + 1,):
-    for j in range(a_var - i,0,-1):
-        print(j, end=' ')
-    print()
+# a_var = int(input("Enter the number of rows: "))
+# for i in range(0,a_var + 1,):
+#     for j in range(a_var - i,0,-1):
+#         print(j, end=' ')
+#     print()
+
+# 7)
+# a_var = int(input("Input:"))
+# for i in range(a_var+1):
+#     for j in range(i):
+#         print(i, end=" ")
+#     print()
