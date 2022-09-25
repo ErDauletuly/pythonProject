@@ -43,7 +43,7 @@ import math
 #     c = (c * 10) + abc
 #     a = a // 10
 # if b == c:
-#     print(c)
+#     print("Output:",c)
 # else:
 #     print("False")
 
