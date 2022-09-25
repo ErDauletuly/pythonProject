@@ -34,7 +34,18 @@ import math
 # print(math.factorial(a_var))
 
 # 5)
-
+# a = int(input("Input: "))
+# b = a
+# c = 0
+#
+# while a>0:
+#     abc = a % 10
+#     c = (c * 10) + abc
+#     a = a // 10
+# if b == c:
+#     print(c)
+# else:
+#     print("False")
 
 # 6)
 # a_var = int(input("Enter the number of rows: "))
