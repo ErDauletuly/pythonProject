@@ -2,7 +2,7 @@
 # a = int(input ("Input: "))
 # for j in range (1,a+1):
 #     print (j**3)
-import math
+
 
 # 2)
 # a = [10, 20, 30, 40, 50]
@@ -30,6 +30,7 @@ import math
 #     print("Output:", factorial)
 
 # 4)
+import math
 # a_var = int(input("Input:"))
 # print(math.factorial(a_var))
 
